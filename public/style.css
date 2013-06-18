@@ -1,0 +1,52 @@
+html {
+     -webkit-var-brandcolor: orange;
+ }
+
+ section {
+  -webkit-var-brandcolor: red;
+  }
+
+  h1 { color: -webkit-var(brandcolor)  }
+
+
+
+
+li {list-style-type: circle  }
+
+@supports (list-style-type: thumbs-up) {
+    li {list-style-type: thumbs-up  }
+}
+
+
+:target {
+    background:blue;
+    -webkit-var-brandcolor: white;
+    color: gray
+}
+
+
+
+table th:nth-of-type(1) {
+    color:darkred;
+}
+
+td:empty, th:empty {
+    background-color: red;
+}
+
+
+ol li:not(:last-of-type) {
+    color: green;
+}
+
+
+nav a:not(.selected) {
+color: gray
+}
+
+
+input + label {
+    color: yellow;
+}
+
+
