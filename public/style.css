@@ -45,8 +45,11 @@ color: gray
 }
 
 
-input + label {
-    color: yellow;
+input:placeholder-shown {
+    font-size:100px
 }
 
 
+input:invalid {
+    border:5px red solid;
+}

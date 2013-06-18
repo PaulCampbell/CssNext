@@ -63,3 +63,19 @@ color: gray
 }
 
 
+## Styling the placeholder...
+
+input:placeholder-shown {
+    font-size:100px
+}
+
+
+
+## Target by validity
+
+input:invalid {
+    border:5px red solid;
+}
+
+
+<label for='number'>a number</label> <input id='number' required pattern='\d*' />

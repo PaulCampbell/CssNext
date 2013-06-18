@@ -4,9 +4,9 @@
     <list default="true" id="7f0a7883-eec0-4d83-9b1b-ebb14193626d" name="Default" comment="" />
     <ignored path="AdriansCssHack.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="7f0a7883-eec0-4d83-9b1b-ebb14193626d" time="1371587882992" ignored="false" />
-    <file path="/readme.md" changelist="7f0a7883-eec0-4d83-9b1b-ebb14193626d" time="1371587001765" ignored="false" />
-    <file path="/style.css" changelist="7f0a7883-eec0-4d83-9b1b-ebb14193626d" time="1371587991219" ignored="false" />
+    <file path="/index.html" changelist="7f0a7883-eec0-4d83-9b1b-ebb14193626d" time="1371588633820" ignored="false" />
+    <file path="/readme.md" changelist="7f0a7883-eec0-4d83-9b1b-ebb14193626d" time="1371588673141" ignored="false" />
+    <file path="/style.css" changelist="7f0a7883-eec0-4d83-9b1b-ebb14193626d" time="1371588388833" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,25 +38,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="8" selection-start="1000" selection-end="1000" vertical-scroll-proportion="-10.125">
+            <state line="73" column="0" selection-start="1158" selection-end="1261" vertical-scroll-proportion="-14.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="readme.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="0" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0">
+            <state line="80" column="78" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.8920863">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="0" selection-start="568" selection-end="568" vertical-scroll-proportion="0.8255814">
+            <state line="55" column="0" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,15 +82,15 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/style.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="506" />
-    <option name="y" value="279" />
+    <option name="x" value="59" />
+    <option name="y" value="139" />
     <option name="width" value="885" />
     <option name="height" value="576" />
   </component>
@@ -209,7 +209,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="506" y="279" width="885" height="576" extended-state="0" />
+    <frame x="59" y="139" width="885" height="576" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -306,23 +306,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="8" selection-start="1000" selection-end="1000" vertical-scroll-proportion="-10.125">
+        <state line="73" column="0" selection-start="1158" selection-end="1261" vertical-scroll-proportion="-14.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="568" selection-end="568" vertical-scroll-proportion="0.8255814">
+        <state line="55" column="0" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="78" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.8920863">
           <folding />
         </state>
       </provider>
