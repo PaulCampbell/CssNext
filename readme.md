@@ -79,3 +79,40 @@ input:invalid {
 
 
 <label for='number'>a number</label> <input id='number' required pattern='\d*' />
+
+
+## Flex!
+
+This doesnt work in chrome yet - try firefox nightly: (also, it's insanely important. I haven
+
+    <ul>
+      <li>some</li>
+      <li>elements</li>
+      <li>a load of theadsfsf sdf dsf sdfg tterg the text</li>
+      <li>yeah</li>
+      <li>Wooooooo!</li>
+    </ul>
+
+
+    .theflexboxyeah ul {
+        display:flex;
+    }
+
+    .theflexboxyeah li{
+        flex:auto;
+        border: 1px solid red;
+        list-style-type:none;
+    }
+
+or
+
+    .theflexboxyeah li{
+        flex:1;
+        border: 1px solid red;
+        list-style-type:none;
+    }
+
+
+    .theflexboxyeah li:nth-child(2) {
+        flex:2;
+    }

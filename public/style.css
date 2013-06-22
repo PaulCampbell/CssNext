@@ -53,3 +53,33 @@ input:placeholder-shown {
 input:invalid {
     border:5px red solid;
 }
+
+
+.theflexboxyeah {
+
+    padding:50px;
+}
+
+.theflexboxyeah ul {
+    display:flex;
+}
+
+.theflexboxyeah li{
+    flex:1;
+    border: 1px solid red;
+    list-style-type:none;
+
+}
+
+
+.theflexboxyeah li:nth-child(2) {
+    flex:2;
+}
+
+
+#border-radius-madness {
+    border: 1px solid red;
+    height:100px;
+    width:100px;
+    border-radius: 50% 50% 0 0 / 100% 100% 0 0 ;
+}
