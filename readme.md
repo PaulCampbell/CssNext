@@ -14,6 +14,13 @@ find and enable
 
 restart your browser (or computer if you're on the windows)
 
+
+now - run up the app and go to the index.html page...
+
+node app.js
+
+http://localhost:4000
+
 ## Scoped Variables:
 
     html {
