@@ -27,6 +27,11 @@ restart your browser (or computer if you're on the windows)
      h1 { color: -webkit-var(brandcolor)  }
 
 
+    <h1>Main title</h1>
+    <section>
+      <h1>CSS future business</h1>
+    </section>
+
 
 ## Supports:
 
@@ -83,7 +88,7 @@ input:invalid {
 
 ## Flex!
 
-This doesnt work in chrome yet - try firefox nightly: (also, it's insanely important. I haven
+This doesnt work in chrome yet - try firefox nightly: (also, it's insanely important. I haven't taken enough notes)
 
     <ul>
       <li>some</li>
